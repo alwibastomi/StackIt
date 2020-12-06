@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar HTML</title>
+</head>
+<body>
+    <div>
+        <!-- heading -->
+        <h1>Biodata Anggota StackIT 2020</h1>
+
+        <!-- paragraph -->
+        <p>Saya adalah anggota StackIT yang mengambil peminatan FrontEnd Dev.</p>
+
+        <!-- list -->
+        <ul>
+            <li>
+                Nama : Diki Akbar
+            </li>
+            <li>
+                Umur : 21 Tahun
+            </li>
+            <li>
+                Semester : 5
+            </li>
+        </ul>
+
+        <!-- tabel  -->
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        No
+                    </th>
+                    <th>
+                        Nama Sekolah
+                    </th>
+                    <th>
+                        Tahun Lulus
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        1
+                    </td>
+                    <td>
+                        SDN 1 Tamanan
+                    </td>
+                    <td>
+                        2011
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+                        SMPN 1 Tulungagung
+                    </td>
+                    <td>
+                        2014
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        3
+                    </td>
+                    <td>
+                        SMAN 1 Kedungwaru
+                    </td>
+                    <td>
+                        2017
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <img src="assets/profile.jpg" alt="gambar hilang">
+        <br>
+        <br>
+        <br>
+        <a href="https://www.instagram.com/diki.akbr/">ke akun ig saya</a>
+        <button>click me</button>
+    </div>
+</body>
+</html>
